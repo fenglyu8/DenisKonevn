@@ -74,7 +74,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main with &quot;no&quot;">
+  <component name="RunManager" selected="Application.Main with &quot;yes&quot;">
     <configuration name="Main with &quot;no&quot;" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ExTestDrive" />
       <module name="CodeMagnetsChapter11" />
