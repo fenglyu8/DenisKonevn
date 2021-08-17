@@ -5,6 +5,11 @@ public class MyRunnable implements Runnable {
     }
 
     private void go() {
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException ex) {
+            ex.printStackTrace();
+        }
         doMore();
     }
 
